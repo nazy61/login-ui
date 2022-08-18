@@ -1,0 +1,120 @@
+body {
+  font-family: "Poppins";
+  max-width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.container {
+  max-width: 1440px;
+  display: flex;
+}
+
+.left {
+  width: 800px;
+  height: 100px;
+  margin-right: 80px;
+}
+
+.right {
+  margin-right: 100px;
+  width: 460px;
+  height: 100px;
+  margin-top: 170px;
+}
+
+.right .title {
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.forgot {
+  text-align: right;
+}
+
+.forgotContainer {
+  width: 400px;
+}
+
+.logo {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.info {
+  margin-top: 270px;
+  margin-left: 170px;
+}
+
+.info p {
+  margin: 0;
+}
+
+.title {
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.brand {
+  font-size: 30px;
+}
+
+.topInfo {
+  margin-bottom: 50px;
+}
+
+.register {
+  padding: 0;
+  margin: 0;
+  margin-left: 10px;
+  background-color: transparent;
+  color: #4d47c3;
+  border: none;
+  text-decoration: none;
+}
+
+.subsection {
+  display: flex;
+}
+
+.image {
+  margin-top: -100px;
+}
+
+input {
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  width: 320px;
+}
+
+.login {
+  margin: 0;
+  padding: 20px;
+  border: none;
+  background-color: #4d47c3;
+  border-radius: 15px;
+  color: white;
+  width: 400px;
+  font-size: 20px;
+}
+
+.inputIcon {
+  width: 25px;
+  height: 25px;
+  margin-bottom: -5px;
+  align-self: center;
+}
+
+.forminput {
+  padding: 20px;
+  background-color: rgba(167, 163, 255, 0.2);
+  border-radius: 10px;
+  width: 360px;
+  color: rgb(167, 163, 255);
+}
